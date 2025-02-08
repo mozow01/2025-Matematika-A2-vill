@@ -117,9 +117,7 @@ Fourier-sor fogalma. Elégséges feltétel arra, hogy Fourier-sora előállítsa
 
 TÖBBVÁLTOZÓS FÜGGVÉNYEK 
  
-10. Alapfogalmak 
-
-Távolság, környezet, nyílt halmaz, zárt halmaz, korlátos halmaz, összefüggő halmaz. Konvergencia. Koordinátánkénti konvergencia. Bolzano-Weierstrass tétel több dimenzióban. Többváltozós függvény fogalma és szemléltetése. Többváltozós függvények határértéke és folytonossága. 
+10. Alapfogalmak Távolság, környezet, nyílt halmaz, zárt halmaz, korlátos halmaz, összefüggő halmaz. Konvergencia. Koordinátánkénti konvergencia. Bolzano-Weierstrass tétel több dimenzióban. Többváltozós függvény fogalma és szemléltetése. Többváltozós függvények határértéke és folytonossága. 
  
 11. Differenciálszámítás 
 Többváltozós függvények deriválása. Gradiens és parciális deriváltak kapcsolata. Geometriai szemléltetés. Magasabb rendű deriváltak, középértéktétel, Young-Schwarz tétel. Differenciál, függvény lineáris közelítése. Függvény közelítése adott rendben. Iránymenti derivált fogalma, kiszámítása, a parciális deriváltakkal és a gradienssel való kapcsolata, geometriai jelentése.  
