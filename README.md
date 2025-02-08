@@ -84,3 +84,52 @@ Javítás kezdeményezése, ha a vizsgát **nem** teljesítette (azaz **v**<24 e
 
 ## Neptun tematika
 
+LINEÁRIS ALGEBRA 
+ 
+1. Lineáris terek 
+Lineáris tér axiómái és geometriai jelentésük. Lineáris függetlenség, altér, kifeszített altér, generátorrendszer, bázis, dimenzió (ismétlés). Báziscsere, az áttérés mátrixa.  Metrikus és normált tér. Euklideszi terek. Ortogonális és ortonormált bázis. Cauchy-Bunyakovszkij egyenlőtlenség, Pithagorasz-tétel. 
+ 
+2. Lineáris operátorok 
+Lineáris operátor definíciója. Operátor mátrixa. Geometriai transzformációk (forgatás, tükrözés, vetítés) és mátrixuk, egyéb lineáris transzformációk (pl. deriválás) és mátrixuk. Magtér, képtér. Dimenziótétel. Inverz. Báziscsere transzformáció. Lineáris transzformáció és lineáris egyenletrendszer kapcsolata.  
+ 
+3. Spektráltétel 
+Karakterisztikus polinom. Sajátérték, sajátvektor. Speciális mátrixok (önadjungált, unitér, stb.) sajátértékei és sajátvektorai. Hasonlóság. Diagonalizálhatóság. Főtengelytétel.  Kvadratikus alakok osztályozása. 
+ 
+4. Mátrixfüggvények 
+Mátrixok függvényeinek értelmezése. Mátrixok exponenciális függvénye és meghatározásának módszerei. 
+
+5. Improprius integrál és alkalmazásai. (A1-ből átkerülő rész.) 
+
+VÉGTELEN SOROK 
+ 
+6. Numerikus sorok 
+Konvergencia, divergencia, maradéktag, abszolút- és feltételes konvergencia. Konvergenciakritériumok. Speciális sorok. Zárójelezés, zárójelfelbontás. Sorok szorzata. Sorok átrendezése, Riemann-tétel. Hibabecslés Leibniz-sorok esetén.  
+ 
+7. Függvénysorozatok, függvénysorok 
+Pontonkénti és egyenletes konvergencia. (Egyenletes) konvergenciatartomány és meghatározása. Az egyenletesen konvergens sorozatok és sorok alapvető tulajdonságainak invarianciája a limesre ill. a sorösszegzésre. Kritériumok egyenletes és nem egyenletes konvergenciára. 
+ 
+8. Hatványsorok 
+Konvergenciaintervallum. Taylor-sorok. Sorfejtés fogalma. Hatványsor és Taylor-sorkapcsolata. Taylor polinom, Lagrange maradéktag.  Taylor-sor egyértelműsége. Elemi függvények Taylor-sora. Taylor-sorfejtés technikája. Binomiális sorok.  
+ 
+9. Fourier-sorok 
+Fourier-sor fogalma. Elégséges feltétel arra, hogy Fourier-sora előállítsa a függvényt. Páros és páratlan függvény Fourier-sora. Sorfejtés technikája. Nevezetes numerikus sorok összegének kiszámítása. Parseval-formula. Komplex Fourier-sorok. 
+ 
+
+TÖBBVÁLTOZÓS FÜGGVÉNYEK 
+ 
+10. Alapfogalmak 
+
+Távolság, környezet, nyílt halmaz, zárt halmaz, korlátos halmaz, összefüggő halmaz. Konvergencia. Koordinátánkénti konvergencia. Bolzano-Weierstrass tétel több dimenzióban. Többváltozós függvény fogalma és szemléltetése. Többváltozós függvények határértéke és folytonossága. 
+ 
+11. Differenciálszámítás 
+Többváltozós függvények deriválása. Gradiens és parciális deriváltak kapcsolata. Geometriai szemléltetés. Magasabb rendű deriváltak, középértéktétel, Young-Schwarz tétel. Differenciál, függvény lineáris közelítése. Függvény közelítése adott rendben. Iránymenti derivált fogalma, kiszámítása, a parciális deriváltakkal és a gradienssel való kapcsolata, geometriai jelentése.  
+ 
+12. Többváltozós szélsőérték 
+Lokális és abszolút szélsőérték. Létezésükre vonatkozó szükséges, illetve elégséges feltételek. Nyeregpont. Feltételes szélsőérték, Lagrange-féle multiplikátoros módszer. 
+ 
+13. Többváltozós függvények integrálása 
+Területi és térfogati integrál. Integrálhatóság elégséges feltételei. Kettős és hármas integrál kiszámítása: kétszeres és háromszoros integrál. Integrálási sorrend megváltoztatása (Fubini-tétel). Integráltranszformáció. Fontosabb transzformációk: polár-, henger- és gömbi koordináták. 
+Jacobi-determináns. Alkalmazások: alakzatok területének, testek térfogatának kiszámítása. Tömeg kiszámítása nem egyenletes anyagsűrűség esetén. Tömegközéppont. 
+
+
+
