@@ -2,13 +2,13 @@
 
 ## ZH információk
 
-1. zh: később, kedd 18-20
+1. zh: április 4. péntek 8-10
 
-2. zh: később kedd 18-20
+2. zh: május 9. péntek 8-10
 
-pót zh: később
+pót zh: május 16. péntek 8-10
 
-aláíráspótló vizsga: később
+aláíráspótló vizsga: máj. 27. kedd 12-14
 
 ## Jegyzetek
 
