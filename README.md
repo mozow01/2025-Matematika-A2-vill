@@ -8,7 +8,7 @@
 
 pót zh: május 16. péntek 8-10
 
-aláíráspótló vizsga: máj. 27. kedd 12-14
+aláíráspótló vizsga: máj. 27. kedd 12-14 E402
 
 ## Jegyzetek
 
